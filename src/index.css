@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #e8501a; /* replace with the exact hex from Figma */
+  --font-sans: "Montserrat", sans-serif;
+}
